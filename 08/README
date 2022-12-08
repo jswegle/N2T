@@ -1,1 +1,4 @@
-
+Finishes implementing the virtual machine, which was started in Chapter 7.
+We develop a high level, object oriented language in Chapter 9, and then build a complier in Chapters 10 and 11.
+This chapter will finish the back end of that compiler for the language in the next chapter.
+In particular, we build on the basics established in Chapter 7 to implement higher level program controls.
