@@ -1,2 +1,2 @@
 # N2T
-All Nand 2 Tetris projects I have completed (code written in 2019).
+Nand 2 Tetris chapter projects that I have completed (code written in 2019).
