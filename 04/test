@@ -1,0 +1,14 @@
+@SCREEN
+D=A
+@currentpixel
+M=D
+
+(fill)
+@currentpixel
+D=M
+@D
+M=1
+@currentpixel
+M=M+1
+@fill
+0:JMP
