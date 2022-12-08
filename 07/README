@@ -1,0 +1,2 @@
+This project and the following one translate VM (virtual machine) files to assembly files. (The assembly files are then 
+translated to binary files that can be executed on the hardware platform built in chapters 1-5.)
